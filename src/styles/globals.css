@@ -63,14 +63,14 @@
     }
   }
 .contact-icon {
-  color: #ff66cc; /* brighter neon pink */
+  color: #ffffff; /* default white for visibility */
   transition: color 0.3s ease, transform 0.2s ease, filter 0.3s ease;
 }
 
 .contact-icon:hover {
-  color: #ffffff; /* turn white */
+  color: #ff4da6; /* bright pink on hover */
   transform: scale(1.2);
-  filter: drop-shadow(0 0 6px #ff66cc); /* glowing effect */
+  filter: drop-shadow(0 0 6px #ff4da6); /* pink glow */
 }
 
 

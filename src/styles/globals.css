@@ -62,6 +62,16 @@
       @apply mb-0;
     }
   }
+  .contact-icon {
+  color: #ff4da6; /* default pink */
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.contact-icon:hover {
+  color: #ffffff; /* turns white on hover */
+  transform: scale(1.2);
+}
+
 
   /* 🎨 Floating Gradient Blobs */
   .glass-blob {

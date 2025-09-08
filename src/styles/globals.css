@@ -9,7 +9,7 @@
 
   /* 🌌 Aurora Background Gradient */
   --color-complementary: #3a1c71; /* fallback */
-  --background-gradient: linear-gradient(135deg, #667eea, #764ba2, #6dd5ed);
+  --background-gradient: linear-gradient(135deg, #1e3c72, #2a5298, #00c6ff);
 }
 
 @layer base {
